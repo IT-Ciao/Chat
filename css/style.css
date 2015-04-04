@@ -1,0 +1,6 @@
+body{		
+	background-color: black;
+}
+div,a,b,span,label,h1,h2,h3,p,input,select,button,td,th,textarea{
+	font-family: 微軟正黑體;
+}
